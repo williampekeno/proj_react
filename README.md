@@ -1,2 +1,2 @@
 # proj_react
-projeto simples usando reackt NextJS
+projeto simples usando react NextJS
